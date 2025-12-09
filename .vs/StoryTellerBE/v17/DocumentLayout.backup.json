@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\providers\\geminichatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\providers\\geminichatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.data\\repositories\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|solutionrelative:storyteller.data\\repositories\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.data\\constants\\activitylogconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|solutionrelative:storyteller.data\\constants\\activitylogconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.data\\seed\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|solutionrelative:storyteller.data\\seed\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.data\\entities\\billingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|solutionrelative:storyteller.data\\entities\\billingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.api\\controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957B8A1-7D77-4515-B3D5-1E5C1640178C}|StoryTeller.API\\StoryTeller.API.csproj|solutionrelative:storyteller.api\\controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.services\\implementations\\ai\\aichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A33F3A-A4D2-447E-ABE0-54A0FB93325C}|StoryTeller.Services\\StoryTeller.Services.csproj|solutionrelative:storyteller.services\\implementations\\ai\\aichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|d:\\fpt_stuff\\fpt_stuff\\exe401(thesis)\\tellstories\\storytellerbe\\storytellerbe\\storyteller.data\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607C764-FAC5-477A-988E-868B56439F56}|StoryTeller.Data\\StoryTeller.Data.csproj|solutionrelative:storyteller.data\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedRoles.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Seed\\SeedRoles.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Data\\Seed\\SeedRoles.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Seed\\SeedRoles.cs",
+              "RelativeToolTip": "StoryTeller.Data\\Seed\\SeedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:23:44.631Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StoryTeller.API\\appsettings.Development.json",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\appsettings.Development.json",
+              "RelativeToolTip": "StoryTeller.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T16:56:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "StoryTeller.API\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "StoryTeller.API\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswHsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:47:18.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivityLogController.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\ActivityLogController.cs",
+              "RelativeDocumentMoniker": "StoryTeller.API\\Controllers\\ActivityLogController.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\ActivityLogController.cs",
+              "RelativeToolTip": "StoryTeller.API\\Controllers\\ActivityLogController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwEcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:46:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityLogRepository.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Repositories\\ActivityLogRepository.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Data\\Repositories\\ActivityLogRepository.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Repositories\\ActivityLogRepository.cs",
+              "RelativeToolTip": "StoryTeller.Data\\Repositories\\ActivityLogRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:02:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\SubscriptionService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\SubscriptionService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\SubscriptionService.cs",
+              "ViewState": "AgIAAPgBAAAAAAAAAADwvwUCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:47:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivityLogService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\ActivityLogService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\ActivityLogService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\ActivityLogService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\ActivityLogService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewFQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:46:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StoryTeller.API\\appsettings.json",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\appsettings.json",
+              "RelativeToolTip": "StoryTeller.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T11:06:14.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityLogConst.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Constants\\ActivityLogConst.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Data\\Constants\\ActivityLogConst.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Constants\\ActivityLogConst.cs",
+              "RelativeToolTip": "StoryTeller.Data\\Constants\\ActivityLogConst.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:00:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeminiChatProvider.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\Providers\\GeminiChatProvider.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\Providers\\GeminiChatProvider.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\Providers\\GeminiChatProvider.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\Providers\\GeminiChatProvider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:33:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\AuthService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:05:47.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAA+wNcBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:27:22.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StoryTeller.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StoryTeller.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAABZwCEBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:27:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AIChatService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\AI\\AIChatService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\AI\\AIChatService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\AI\\AIChatService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\AI\\AIChatService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:32:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AIChatController.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\AIChatController.cs",
+              "RelativeDocumentMoniker": "StoryTeller.API\\Controllers\\AIChatController.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\AIChatController.cs",
+              "RelativeToolTip": "StoryTeller.API\\Controllers\\AIChatController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAQwOYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:16:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VNPayService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\VNPayService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\VNPayService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\VNPayService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\VNPayService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:05:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillingRecord.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Entities\\BillingRecord.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Data\\Entities\\BillingRecord.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Entities\\BillingRecord.cs",
+              "RelativeToolTip": "StoryTeller.Data\\Entities\\BillingRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:04:07.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoryRepository.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Repositories\\StoryRepository.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Data\\Repositories\\StoryRepository.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Data\\Repositories\\StoryRepository.cs",
+              "RelativeToolTip": "StoryTeller.Data\\Repositories\\StoryRepository.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAUwIgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:01:10.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\StoryService.cs",
+              "RelativeDocumentMoniker": "StoryTeller.Services\\Implementations\\StoryService.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.Services\\Implementations\\StoryService.cs",
+              "RelativeToolTip": "StoryTeller.Services\\Implementations\\StoryService.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAAwO8BAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:07:55.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "StoryTeller.API\\Controllers\\StoryController.cs",
+              "ToolTip": "D:\\fpt_stuff\\fpt_stuff\\EXE401(thesis)\\TellStories\\StoryTellerBE\\StoryTellerBE\\StoryTeller.API\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "StoryTeller.API\\Controllers\\StoryController.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAnwAACAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:16:31.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

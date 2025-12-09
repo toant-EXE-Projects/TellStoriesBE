@@ -1,0 +1,549 @@
+{
+  "emailTree": {
+    "id": "mjml-1",
+    "type": "mjml",
+    "attributes": {},
+    "children": [
+      {
+        "id": "head-1",
+        "type": "mj-head",
+        "attributes": {},
+        "children": [
+          {
+            "id": "attributes-1",
+            "type": "mj-attributes",
+            "attributes": {},
+            "children": [
+              {
+                "id": "text-defaults-1",
+                "type": "mj-text",
+                "attributes": {
+                  "align": "left",
+                  "color": "#333333",
+                  "fontFamily": "Arial, sans-serif",
+                  "fontSize": "16px",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "lineHeight": "1.6",
+                  "textDecoration": "none",
+                  "textTransform": "none",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px",
+                  "backgroundColor": "transparent"
+                }
+              },
+              {
+                "id": "button-defaults-1",
+                "type": "mj-button",
+                "attributes": {
+                  "align": "center",
+                  "backgroundColor": "#007bff",
+                  "borderRadius": "4px",
+                  "border": "none",
+                  "color": "#ffffff",
+                  "fontFamily": "Arial, sans-serif",
+                  "fontSize": "16px",
+                  "fontStyle": "normal",
+                  "fontWeight": "bold",
+                  "href": "",
+                  "innerPadding": "12px 24px",
+                  "lineHeight": "120%",
+                  "paddingTop": "15px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "15px",
+                  "paddingLeft": "25px",
+                  "target": "_blank",
+                  "textDecoration": "none",
+                  "textTransform": "none",
+                  "verticalAlign": "middle",
+                  "rel": "noopener noreferrer"
+                }
+              },
+              {
+                "id": "image-defaults-1",
+                "type": "mj-image",
+                "attributes": {
+                  "align": "center",
+                  "alt": "",
+                  "border": "none",
+                  "borderRadius": "0px",
+                  "containerBackgroundColor": "transparent",
+                  "fluidOnMobile": "false",
+                  "height": "auto",
+                  "href": "",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px",
+                  "rel": "noopener noreferrer",
+                  "sizes": "",
+                  "src": "https://placehold.co/150x60/E3F2FD/1976D2?font=playfair-display&text=LOGO",
+                  "srcset": "",
+                  "target": "_blank",
+                  "title": "",
+                  "usemap": "",
+                  "width": "150px"
+                }
+              },
+              {
+                "id": "section-defaults-1",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "transparent",
+                  "backgroundUrl": "",
+                  "backgroundRepeat": "no-repeat",
+                  "backgroundSize": "auto",
+                  "backgroundPosition": "top center",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "direction": "ltr",
+                  "fullWidth": "full-width",
+                  "paddingTop": "20px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "20px",
+                  "paddingLeft": "0px",
+                  "textAlign": "center",
+                  "cssClass": ""
+                },
+                "children": []
+              },
+              {
+                "id": "column-defaults-1",
+                "type": "mj-column",
+                "attributes": {
+                  "width": "100%",
+                  "verticalAlign": "top",
+                  "backgroundColor": "transparent",
+                  "innerBackgroundColor": "transparent",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "innerBorder": "none",
+                  "innerBorderTop": "none",
+                  "innerBorderRight": "none",
+                  "innerBorderBottom": "none",
+                  "innerBorderLeft": "none",
+                  "innerBorderRadius": "0px",
+                  "paddingTop": "0px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "0px",
+                  "cssClass": ""
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "body-1",
+        "type": "mj-body",
+        "attributes": {
+          "width": "600px",
+          "backgroundColor": "#f8f9fa"
+        },
+        "children": [
+          {
+            "id": "wrapper-1",
+            "type": "mj-wrapper",
+            "attributes": {
+              "paddingTop": "20px",
+              "paddingRight": "20px",
+              "paddingBottom": "20px",
+              "paddingLeft": "20px"
+            },
+            "children": [
+              {
+                "id": "hero-section-1",
+                "type": "mj-section",
+                "attributes": {
+                  "paddingTop": "0px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "0px",
+                  "textAlign": "center",
+                  "backgroundColor": "transparent",
+                  "direction": "ltr",
+                  "fullWidth": "full-width"
+                },
+                "children": [
+                  {
+                    "id": "hero-column-1",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%",
+                      "backgroundColor": "#f3f4f6"
+                    },
+                    "children": [
+                      {
+                        "id": "57a9b7a7-a96c-420e-8591-ed0cc345b15c",
+                        "type": "mj-image",
+                        "attributes": {
+                          "align": "center",
+                          "alt": "",
+                          "border": "none",
+                          "borderRadius": "0px",
+                          "containerBackgroundColor": "transparent",
+                          "height": "auto",
+                          "href": "",
+                          "paddingTop": "10px",
+                          "paddingRight": "0px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "0px",
+                          "rel": "noopener noreferrer",
+                          "sizes": "",
+                          "src": "https://storytellercdn.runasp.net/uploads/a22437e4-91ee-46a3-bd0b-9f6f6b7d7fc8.png",
+                          "srcset": "",
+                          "target": "_blank",
+                          "title": "",
+                          "usemap": "",
+                          "width": "100px"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "title-section",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": "8px",
+                  "paddingTop": "0px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "25px"
+                },
+                "children": [
+                  {
+                    "id": "title-column",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%"
+                    },
+                    "children": [
+                      {
+                        "id": "title-1",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#EC407A",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "24px",
+                          "fontStyle": "normal",
+                          "fontWeight": "bold",
+                          "lineHeight": "1.3",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "15px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Xin chào {{displayName}}</p>"
+                      },
+                      {
+                        "id": "explanation-1",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#000000",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p><strong>{{bodyPurpose}}</strong></p>"
+                      },
+                      {
+                        "id": "bd887172-03a4-4306-a1cf-56f07b3eefc4",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#1a56db",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "20px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p><strong>{{code}}</strong></p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "8803bcd3-a516-4e94-85ec-f23c0d6a4de5",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "backgroundUrl": "",
+                  "backgroundRepeat": "no-repeat",
+                  "backgroundSize": "auto",
+                  "backgroundPosition": "top center",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "direction": "ltr",
+                  "fullWidth": "full-width",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px",
+                  "textAlign": "center",
+                  "cssClass": ""
+                },
+                "children": [
+                  {
+                    "id": "39890086-1b7d-43dc-8b81-b8056ad33ea1",
+                    "type": "mj-group",
+                    "attributes": {
+                      "width": "100%",
+                      "verticalAlign": "top",
+                      "backgroundColor": "#e5e7eb",
+                      "direction": "ltr",
+                      "cssClass": ""
+                    },
+                    "children": [
+                      {
+                        "id": "d96997c9-864d-484c-9004-58a6b87576d5",
+                        "type": "mj-column",
+                        "attributes": {
+                          "width": "100%",
+                          "verticalAlign": "top",
+                          "backgroundColor": "transparent",
+                          "innerBackgroundColor": "transparent",
+                          "border": "none",
+                          "borderTop": "none",
+                          "borderRight": "none",
+                          "borderBottom": "none",
+                          "borderLeft": "none",
+                          "borderRadius": "0px",
+                          "innerBorder": "none",
+                          "innerBorderTop": "none",
+                          "innerBorderRight": "none",
+                          "innerBorderBottom": "none",
+                          "innerBorderLeft": "none",
+                          "innerBorderRadius": "0px",
+                          "paddingTop": "0px",
+                          "paddingRight": "0px",
+                          "paddingBottom": "0px",
+                          "paddingLeft": "0px",
+                          "cssClass": ""
+                        },
+                        "children": [
+                          {
+                            "id": "ffdc4183-27e2-407c-bec7-e851af44d408",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "left",
+                              "color": "#333333",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "14px",
+                              "fontStyle": "normal",
+                              "fontWeight": "normal",
+                              "lineHeight": "1.6",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p>Mã này sẽ hết hiệu lực sau <strong>15 phút</strong>.</p>"
+                          },
+                          {
+                            "id": "ceecebff-21da-42c9-96ad-7145e782dd10",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "left",
+                              "color": "#333333",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "14px",
+                              "fontStyle": "normal",
+                              "fontWeight": "normal",
+                              "lineHeight": "1.6",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p>Nếu bạn không gửi yêu cầu này, vui lòng bỏ qua email này.</p>"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "social-section-1",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": "8px",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px"
+                },
+                "children": [
+                  {
+                    "id": "social-column-1",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%"
+                    },
+                    "children": [
+                      {
+                        "id": "46821372-56c1-416d-9682-a2462b5c007c",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#333333",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "12px",
+                          "fontStyle": "normal",
+                          "fontWeight": "bold",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>— Đội ngũ TellStories</p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "0632297a-bd9f-4189-b5e8-3b9547f4646b",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "transparent",
+                  "backgroundUrl": "",
+                  "backgroundRepeat": "no-repeat",
+                  "backgroundSize": "auto",
+                  "backgroundPosition": "top center",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "direction": "ltr",
+                  "fullWidth": "full-width",
+                  "paddingTop": "20px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "20px",
+                  "paddingLeft": "25px",
+                  "textAlign": "center",
+                  "cssClass": ""
+                },
+                "children": [
+                  {
+                    "id": "b17203f7-c07b-4e49-8798-0397fc29a025",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%",
+                      "verticalAlign": "top",
+                      "backgroundColor": "transparent",
+                      "innerBackgroundColor": "transparent",
+                      "border": "none",
+                      "borderTop": "none",
+                      "borderRight": "none",
+                      "borderBottom": "none",
+                      "borderLeft": "none",
+                      "borderRadius": "0px",
+                      "innerBorder": "none",
+                      "innerBorderTop": "none",
+                      "innerBorderRight": "none",
+                      "innerBorderBottom": "none",
+                      "innerBorderLeft": "none",
+                      "innerBorderRadius": "0px",
+                      "paddingTop": "0px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "paddingLeft": "0px",
+                      "cssClass": ""
+                    },
+                    "children": [
+                      {
+                        "id": "ce22e9f4-eae6-4014-b945-418c7283754e",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "center",
+                          "color": "#6b7280",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Nếu cần hỗ trợ, vui lòng liên hệ: {{supportEmail}}</p>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "testData": {
+    "displayName": "{{displayName}}",
+    "bodyPurpose": "{{bodyPurpose}}",
+    "code": "{{code}}",
+    "supportEmail": "{{supportEmail}}"
+  },
+  "exportedAt": "2025-08-21T22:40:11.841Z",
+  "version": "1.0"
+}

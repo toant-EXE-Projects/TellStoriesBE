@@ -1,0 +1,624 @@
+{
+  "emailTree": {
+    "id": "mjml-1",
+    "type": "mjml",
+    "attributes": {},
+    "children": [
+      {
+        "id": "head-1",
+        "type": "mj-head",
+        "attributes": {},
+        "children": [
+          {
+            "id": "attributes-1",
+            "type": "mj-attributes",
+            "attributes": {},
+            "children": [
+              {
+                "id": "text-defaults-1",
+                "type": "mj-text",
+                "attributes": {
+                  "align": "left",
+                  "color": "#333333",
+                  "fontFamily": "Arial, sans-serif",
+                  "fontSize": "16px",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "lineHeight": "1.6",
+                  "textDecoration": "none",
+                  "textTransform": "none",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px",
+                  "backgroundColor": "transparent"
+                }
+              },
+              {
+                "id": "button-defaults-1",
+                "type": "mj-button",
+                "attributes": {
+                  "align": "center",
+                  "backgroundColor": "#007bff",
+                  "borderRadius": "4px",
+                  "border": "none",
+                  "color": "#ffffff",
+                  "fontFamily": "Arial, sans-serif",
+                  "fontSize": "16px",
+                  "fontStyle": "normal",
+                  "fontWeight": "bold",
+                  "href": "",
+                  "innerPadding": "12px 24px",
+                  "lineHeight": "120%",
+                  "paddingTop": "15px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "15px",
+                  "paddingLeft": "25px",
+                  "target": "_blank",
+                  "textDecoration": "none",
+                  "textTransform": "none",
+                  "verticalAlign": "middle",
+                  "rel": "noopener noreferrer"
+                }
+              },
+              {
+                "id": "image-defaults-1",
+                "type": "mj-image",
+                "attributes": {
+                  "align": "center",
+                  "alt": "",
+                  "border": "none",
+                  "borderRadius": "0px",
+                  "containerBackgroundColor": "transparent",
+                  "fluidOnMobile": "false",
+                  "height": "auto",
+                  "href": "",
+                  "paddingTop": "10px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "25px",
+                  "rel": "noopener noreferrer",
+                  "sizes": "",
+                  "src": "https://placehold.co/150x60/E3F2FD/1976D2?font=playfair-display&text=LOGO",
+                  "srcset": "",
+                  "target": "_blank",
+                  "title": "",
+                  "usemap": "",
+                  "width": "150px"
+                }
+              },
+              {
+                "id": "section-defaults-1",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "transparent",
+                  "backgroundUrl": "",
+                  "backgroundRepeat": "no-repeat",
+                  "backgroundSize": "auto",
+                  "backgroundPosition": "top center",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "direction": "ltr",
+                  "fullWidth": "full-width",
+                  "paddingTop": "20px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "20px",
+                  "paddingLeft": "0px",
+                  "textAlign": "center",
+                  "cssClass": ""
+                },
+                "children": []
+              },
+              {
+                "id": "column-defaults-1",
+                "type": "mj-column",
+                "attributes": {
+                  "width": "100%",
+                  "verticalAlign": "top",
+                  "backgroundColor": "transparent",
+                  "innerBackgroundColor": "transparent",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "innerBorder": "none",
+                  "innerBorderTop": "none",
+                  "innerBorderRight": "none",
+                  "innerBorderBottom": "none",
+                  "innerBorderLeft": "none",
+                  "innerBorderRadius": "0px",
+                  "paddingTop": "0px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "0px",
+                  "cssClass": ""
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "preview-1",
+            "type": "mj-preview",
+            "attributes": {
+              "content": ""
+            },
+            "content": "Biên nhận cho thanh toán của bạn."
+          }
+        ]
+      },
+      {
+        "id": "body-1",
+        "type": "mj-body",
+        "attributes": {
+          "width": "600px",
+          "backgroundColor": "#f8f9fa"
+        },
+        "children": [
+          {
+            "id": "wrapper-1",
+            "type": "mj-wrapper",
+            "attributes": {
+              "paddingTop": "20px",
+              "paddingRight": "20px",
+              "paddingBottom": "20px",
+              "paddingLeft": "20px"
+            },
+            "children": [
+              {
+                "id": "hero-section-1",
+                "type": "mj-section",
+                "attributes": {
+                  "paddingTop": "0px",
+                  "paddingRight": "0px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "0px",
+                  "textAlign": "center",
+                  "backgroundColor": "transparent",
+                  "direction": "ltr",
+                  "fullWidth": "full-width"
+                },
+                "children": [
+                  {
+                    "id": "hero-column-1",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%",
+                      "backgroundColor": "#f3f4f6"
+                    },
+                    "children": [
+                      {
+                        "id": "57a9b7a7-a96c-420e-8591-ed0cc345b15c",
+                        "type": "mj-image",
+                        "attributes": {
+                          "align": "center",
+                          "alt": "",
+                          "border": "none",
+                          "borderRadius": "0px",
+                          "containerBackgroundColor": "transparent",
+                          "height": "auto",
+                          "href": "",
+                          "paddingTop": "10px",
+                          "paddingRight": "0px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "0px",
+                          "rel": "noopener noreferrer",
+                          "sizes": "",
+                          "src": "https://storytellercdn.runasp.net/uploads/a22437e4-91ee-46a3-bd0b-9f6f6b7d7fc8.png",
+                          "srcset": "",
+                          "target": "_blank",
+                          "title": "",
+                          "usemap": "",
+                          "width": "100px"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "title-section",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": "8px",
+                  "paddingTop": "0px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "25px"
+                },
+                "children": [
+                  {
+                    "id": "title-column",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%"
+                    },
+                    "children": [
+                      {
+                        "id": "title-1",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#EC407A",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "24px",
+                          "fontStyle": "normal",
+                          "fontWeight": "bold",
+                          "lineHeight": "1.3",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "15px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Xin chào {{displayName}}</p>"
+                      },
+                      {
+                        "id": "explanation-1",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#000000",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "25px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p><strong>Xác nhận thanh toán cho tài khoản của bạn.</strong></p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "section-1",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": "8px",
+                  "paddingTop": "0px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "25px"
+                },
+                "children": [
+                  {
+                    "id": "group-1",
+                    "type": "mj-group",
+                    "attributes": {
+                      "width": "100%",
+                      "backgroundColor": "#e5e7eb"
+                    },
+                    "children": [
+                      {
+                        "id": "column-2",
+                        "type": "mj-column",
+                        "attributes": {
+                          "width": "100%"
+                        },
+                        "children": [
+                          {
+                            "id": "divider-1",
+                            "type": "mj-divider",
+                            "attributes": {
+                              "align": "center",
+                              "borderColor": "#9ca3af",
+                              "borderStyle": "solid",
+                              "borderWidth": "2px",
+                              "containerBackgroundColor": "transparent",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "width": "100%",
+                              "paddingTop": "10px"
+                            },
+                            "children": []
+                          },
+                          {
+                            "id": "left-title-1",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "left",
+                              "color": "#EC407A",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "18px",
+                              "fontStyle": "normal",
+                              "fontWeight": "bold",
+                              "lineHeight": "1.4",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p>Chi tiết thanh toán:</p>"
+                          },
+                          {
+                            "id": "ae6c73bd-bd0e-42f6-9e3a-e28881a99635",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "left",
+                              "color": "#333333",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "16px",
+                              "fontStyle": "normal",
+                              "fontWeight": "normal",
+                              "lineHeight": "1.6",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "0px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "0px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p><strong>Gói đăng ký: {{subscriptionName}}</strong></p><p><span style=\"color: #9ca3af\"><strong><em>Id gói: {{subscriptionId}}</em></strong></span></p>"
+                          },
+                          {
+                            "id": "left-text-1",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "left",
+                              "color": "#000000",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "14px",
+                              "fontStyle": "normal",
+                              "fontWeight": "normal",
+                              "lineHeight": "1.6",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p>Tài khoản: <strong>{{subscriberEmail}}</strong></p><p>Mã giao dịch: <strong>{{transactionId}}</strong></p><p>Mã thanh toán: <strong>{{paymentId}}</strong></p><p>Thời gian thanh toán: <strong>{{paidAt}}</strong></p><p>Phương thức thanh toán: <strong>{{paymentMethod}}</strong></p>"
+                          },
+                          {
+                            "id": "00a063a6-6f20-400d-8150-4b360ec85fc3",
+                            "type": "mj-divider",
+                            "attributes": {
+                              "align": "center",
+                              "borderColor": "#9ca3af",
+                              "borderStyle": "solid",
+                              "borderWidth": "2px",
+                              "containerBackgroundColor": "transparent",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "width": "100%"
+                            },
+                            "children": []
+                          },
+                          {
+                            "id": "0e4e5701-50d5-40b4-9ead-b5eb546e757c",
+                            "type": "mj-text",
+                            "attributes": {
+                              "align": "right",
+                              "color": "#333333",
+                              "fontFamily": "Arial, sans-serif",
+                              "fontSize": "16px",
+                              "fontStyle": "normal",
+                              "fontWeight": "normal",
+                              "lineHeight": "1.6",
+                              "textDecoration": "none",
+                              "textTransform": "none",
+                              "paddingTop": "10px",
+                              "paddingRight": "25px",
+                              "paddingBottom": "10px",
+                              "paddingLeft": "25px",
+                              "backgroundColor": "transparent"
+                            },
+                            "content": "<p><strong>Thành tiền: {{total}}</strong></p>"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "social-section-1",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": "8px",
+                  "paddingTop": "25px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "0px",
+                  "paddingLeft": "25px"
+                },
+                "children": [
+                  {
+                    "id": "social-column-1",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%"
+                    },
+                    "children": [
+                      {
+                        "id": "4265c2c4-77f2-49d2-9c81-6d58726df3c2",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#333333",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "14px",
+                          "fontStyle": "normal",
+                          "fontWeight": "bold",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Email này sẽ đóng vai trò là biên lai của bạn. Bạn cũng có thể xem lịch sử thanh toán trong app.</p>"
+                      },
+                      {
+                        "id": "46821372-56c1-416d-9682-a2462b5c007c",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#333333",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "12px",
+                          "fontStyle": "normal",
+                          "fontWeight": "bold",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Chúc bạn có những trải nghiệm thú vị!</p><p>— Đội ngũ TellStories</p>"
+                      },
+                      {
+                        "id": "b5f665de-f403-4d27-be57-945aa3f3a2cf",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "left",
+                          "color": "#333333",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "14px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "0px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "0px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p></p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "0632297a-bd9f-4189-b5e8-3b9547f4646b",
+                "type": "mj-section",
+                "attributes": {
+                  "backgroundColor": "transparent",
+                  "backgroundUrl": "",
+                  "backgroundRepeat": "no-repeat",
+                  "backgroundSize": "auto",
+                  "backgroundPosition": "top center",
+                  "border": "none",
+                  "borderTop": "none",
+                  "borderRight": "none",
+                  "borderBottom": "none",
+                  "borderLeft": "none",
+                  "borderRadius": "0px",
+                  "direction": "ltr",
+                  "fullWidth": "full-width",
+                  "paddingTop": "20px",
+                  "paddingRight": "25px",
+                  "paddingBottom": "20px",
+                  "paddingLeft": "25px",
+                  "textAlign": "center",
+                  "cssClass": ""
+                },
+                "children": [
+                  {
+                    "id": "b17203f7-c07b-4e49-8798-0397fc29a025",
+                    "type": "mj-column",
+                    "attributes": {
+                      "width": "100%",
+                      "verticalAlign": "top",
+                      "backgroundColor": "transparent",
+                      "innerBackgroundColor": "transparent",
+                      "border": "none",
+                      "borderTop": "none",
+                      "borderRight": "none",
+                      "borderBottom": "none",
+                      "borderLeft": "none",
+                      "borderRadius": "0px",
+                      "innerBorder": "none",
+                      "innerBorderTop": "none",
+                      "innerBorderRight": "none",
+                      "innerBorderBottom": "none",
+                      "innerBorderLeft": "none",
+                      "innerBorderRadius": "0px",
+                      "paddingTop": "0px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "paddingLeft": "0px",
+                      "cssClass": ""
+                    },
+                    "children": [
+                      {
+                        "id": "ce22e9f4-eae6-4014-b945-418c7283754e",
+                        "type": "mj-text",
+                        "attributes": {
+                          "align": "center",
+                          "color": "#6b7280",
+                          "fontFamily": "Arial, sans-serif",
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                          "lineHeight": "1.6",
+                          "textDecoration": "none",
+                          "textTransform": "none",
+                          "paddingTop": "10px",
+                          "paddingRight": "25px",
+                          "paddingBottom": "10px",
+                          "paddingLeft": "25px",
+                          "backgroundColor": "transparent"
+                        },
+                        "content": "<p>Nếu cần hỗ trợ, vui lòng liên hệ: {{supportEmail}}</p>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "testData": {
+    "displayName": "{{displayName}}",
+    "subscriptionName": "{{subscriptionName}}",
+    "subscriptionId": "{{subscriptionId}}",
+    "subscriberEmail": "{{subscriberEmail}}",
+    "transactionId": "{{transactionId}}",
+    "paymentId": "{{paymentId}}",
+    "paidAt": "{{paidAt}}",
+    "paymentMethod": "{{paymentMethod}}",
+    "total": "{{total}}",
+    "supportEmail": "{{supportEmail}}"
+  },
+  "exportedAt": "2025-08-21T22:50:14.871Z",
+  "version": "1.0"
+}
